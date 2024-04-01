@@ -1,3 +1,6 @@
+//ENE212/0080-2021
+//OMAE TERESIA KEMUNTO
+
 #include <stdio.h>
 
 int main() {
