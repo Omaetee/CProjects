@@ -1,5 +1,8 @@
 #include<stdio.h>
 
+//OMAE TERESIA KEMUNTO
+//ENE212/0080/2021
+
 int main() 
 {
 //Initializing the variables
